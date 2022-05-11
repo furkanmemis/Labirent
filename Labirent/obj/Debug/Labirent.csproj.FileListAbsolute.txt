@@ -1,0 +1,11 @@
+D:\c#\Labirent\Labirent\bin\Debug\Labirent.exe.config
+D:\c#\Labirent\Labirent\bin\Debug\Labirent.exe
+D:\c#\Labirent\Labirent\bin\Debug\Labirent.pdb
+D:\c#\Labirent\Labirent\obj\Debug\Labirent.csproj.AssemblyReference.cache
+D:\c#\Labirent\Labirent\obj\Debug\Labirent.csproj.SuggestedBindingRedirects.cache
+D:\c#\Labirent\Labirent\obj\Debug\Labirent.Form1.resources
+D:\c#\Labirent\Labirent\obj\Debug\Labirent.Properties.Resources.resources
+D:\c#\Labirent\Labirent\obj\Debug\Labirent.csproj.GenerateResource.cache
+D:\c#\Labirent\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+D:\c#\Labirent\Labirent\obj\Debug\Labirent.exe
+D:\c#\Labirent\Labirent\obj\Debug\Labirent.pdb
